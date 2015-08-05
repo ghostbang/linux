@@ -7,8 +7,8 @@ independantly. Also note that I do not use semantic versioning, only release dat
 <sup>Latest Downloads</sup>  
 [![downloads](https://img.shields.io/badge/vanilla-2015.08.06-green.svg)](http://creativecommons.org/
     licenses/by-nc-nd/3.0/) <sup>```download this one if you want the minimum```</sup>  
-[![downloads](https://img.shields.io/badge/vanilla-2015%E5%B9%B408%E6%9C%8806%E6%97%A5-red.svg)](http://creativecommons.org/
-    licenses/by-nc-nd/3.0/) <sup>```download this one if you want the minimum```</sup>    
+[![downloads](https://img.shields.io/badge/dragon%20fruit-2015%E5%B9%B408%E6%9C%8806%E6%97%A5-red.svg)](http://creativecommons.org/
+    licenses/by-nc-nd/3.0/) <sup>```unavailable at the moment```</sup>    
 
 <sub><i>Download latest build [2015.08.06 Ghostbang Vanilla](http://www.sudo.ws/) / Installation instructions are found [here](http://www.sudo.ws/). </i></sub>
 
