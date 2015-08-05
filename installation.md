@@ -3,7 +3,17 @@
 [Manually reformat an SD card and install Ghostbang Linux (Linux)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
 [Manually reformat an SD card and install Ghostbang Linux (Mac)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
 
-===
+---
+<sup>Latest Downloads</sup>  
+[![downloads](https://img.shields.io/badge/vanilla-2015.08.06-0EBFE9.svg)](http://creativecommons.org/
+    licenses/by-nc-nd/3.0/) <sup>```download this one if you want the minimum```</sup>  
+[![downloads](https://img.shields.io/badge/dragon%20fruit-in%20development-ff69b4.svg)](http://creativecommons.org/
+    licenses/by-nc-nd/3.0/) <sup>```experimental; unavailable at the moment```</sup>    
+
+<sub><i>Installation instructions are found [here](http://www.sudo.ws/). </i></sub>
+
+---
+
 ####Step 1 - Reformatting an SD card for the Raspberry Pi
 
 Start with an empty SD card. (If not, check out part X for steps to remove all data.)
