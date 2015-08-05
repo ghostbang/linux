@@ -1,7 +1,7 @@
 ###Installation Notes
 
-[Step 1 - Reformatting an SD card for the Raspberry Pi](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
-[Step 2 - Mount Point Nodes](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
+[Manually Reformat an SD card (Linux)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
+[Manually Reformat an SD card (Mac)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
 
 ===
 ####Step 1 - Reformatting an SD card for the Raspberry Pi
