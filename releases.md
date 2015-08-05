@@ -17,7 +17,7 @@ NEW FEATURES
 <i>This base build is forked from the latest [Minibian](https://minibianpi.wordpress.com/) image, dated 02.18.15. I take no credit in the development of this image.</i>
 
 FEATURES  
-• [Kernel 3.18.7+ #755](https://www.kernel.org/)
+• [Kernel 3.18.7+ #755](https://www.kernel.org/)  
 • 13 secs boot (on RPi 2)  
 • 24 MB RAM used  
 • 334 MB disk space used  
