@@ -1,7 +1,7 @@
 ###Installation Notes
 
-[Manually reformat an SD card (Linux)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
-[Manually reformat an SD card (Mac)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
+[Manually reformat an SD card and install (Linux)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
+[Manually reformat an SD card and install (Mac)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
 
 ===
 ####Step 1 - Reformatting an SD card for the Raspberry Pi
