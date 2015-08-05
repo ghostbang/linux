@@ -5,7 +5,7 @@ Please note that Ghostbang comes in flavors and each flavor gets updated
 independantly. Also note that I do not use semantic versioning, only release dates.   
 
 <sup>Latest Downloads</sup>  
-[![downloads](https://img.shields.io/badge/vanilla-2015.08.06-green.svg)](http://creativecommons.org/
+[![downloads](https://img.shields.io/badge/vanilla-2015.08.06-0EBFE9.svg)](http://creativecommons.org/
     licenses/by-nc-nd/3.0/) <sup>```download this one if you want the minimum```</sup>  
 [![downloads](https://img.shields.io/badge/dragon%20fruit-in%20development-ff69b4.svg)](http://creativecommons.org/
     licenses/by-nc-nd/3.0/) <sup>```experimental; unavailable at the moment```</sup>    
