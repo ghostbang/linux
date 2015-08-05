@@ -5,7 +5,7 @@
 
 ---
 <sup>Latest Downloads</sup>  
-[![downloads](https://img.shields.io/badge/vanilla-2015.08.06-0EBFE9.svg)](http://creativecommons.org/
+[![downloads](https://camo.githubusercontent.com/82b1476790cd388cf2d4a89ced92e9a73e0c19a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76616e696c6c612d323031352e30382e30362d3045424645392e737667)](http://creativecommons.org/
     licenses/by-nc-nd/3.0/) <sup>```download this one if you want the minimum```</sup>  
 [![downloads](https://img.shields.io/badge/dragon%20fruit-in%20development-ff69b4.svg)](http://creativecommons.org/
     licenses/by-nc-nd/3.0/) <sup>```experimental; unavailable at the moment```</sup>    
