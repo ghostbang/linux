@@ -2,7 +2,7 @@
 
 This document provides a timeline of releases, changes, features, bugs, and fixes. 
 Please note that Ghostbang comes in flavors and each flavor gets updated
-independantly. Also note that there are no version numbers, only release dates.   
+independantly. Also note that I do not use semantic versioning, only release dates.   
 
 <sup>Latest Downloads</sup>  
 [![downloads](https://img.shields.io/badge/vanilla-2015.08.06-green.svg)](http://creativecommons.org/
@@ -15,7 +15,7 @@ independantly. Also note that there are no version numbers, only release dates.
 ----
 #####2015.08.06 / Vanilla Ghost
 
-<i>Added a few packages, not found on the 08.05.15 build, which I consider to be essential.</i>
+<i>Added a few packages, not found on the 2015.08.05 build, which I consider to be essential.</i>
 
 NEW FEATURES  
 • Installed [sudo](http://www.sudo.ws/) ```apt-get install sudo```  
