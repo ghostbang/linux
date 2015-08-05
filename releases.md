@@ -4,6 +4,12 @@ This document provides a timeline of releases, changes, features, bugs, and fixe
 Please note that Ghostbang comes in flavors and each flavor gets updated
 independantly. Also note that there are no version numbers, only release dates.   
 
+<sup>Latest Downloads</sup>  
+[![downloads](https://img.shields.io/badge/vanilla-2015.08.06-green.svg)](http://creativecommons.org/
+    licenses/by-nc-nd/3.0/) <sup>```download this one if you want the minimum```</sup>  
+[![downloads](https://img.shields.io/badge/vanilla-2015.08.06-green.svg)](http://creativecommons.org/
+    licenses/by-nc-nd/3.0/) <sup>```download this one if you want the minimum```</sup>    
+
 <sub><i>Download latest build [2015.08.06 Ghostbang Vanilla](http://www.sudo.ws/) / Installation instructions are found [here](http://www.sudo.ws/). </i></sub>
 
 ----
