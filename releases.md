@@ -13,7 +13,7 @@ independantly. Also note that I do not use semantic versioning, only release dat
 <sub><i>Download latest build [2015.08.06 Ghostbang Vanilla](http://www.sudo.ws/) / Installation instructions are found [here](http://www.sudo.ws/). </i></sub>
 
 ----
-#####2015.08.06 / Vanilla Ghost
+#####2015.08.06 / Vanilla
 
 <i>Added a few packages, not found on the 2015.08.05 build, which I consider to be essential.</i>
 
@@ -21,7 +21,7 @@ NEW FEATURES
 • Installed [sudo](http://www.sudo.ws/) ```apt-get install sudo```  
 • Installed [nano](http://www.nano-editor.org/) ```apt-get install nano```  
 
-#####2015.08.05 / Vanilla Ghost
+#####2015.08.05 / Vanilla
 
 <i>This base build is forked from the latest [Minibian](https://minibianpi.wordpress.com/) image, dated 02.18.15. I take no credit in the development of this image.</i>
 
