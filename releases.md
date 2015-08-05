@@ -5,7 +5,7 @@ Please note that Ghostbang comes in flavors and each flavor gets updated
 independantly. Also note that there are no version numbers, only release dates. 
 
 ##Vanilla Ghost • 08.05.15
-<i>This base build is forked from the latest MINIBIAN image, dated 02.18.15. I take no credit in the development of this image.</i> https://minibianpi.wordpress.com/
+<i>This base build is forked from the latest [Minibian](https://minibianpi.wordpress.com/) image, dated 02.18.15. I take no credit in the development of this image.</i>
 
 NEW FEATURES
 • Kernel 3.18.7+ #755  
