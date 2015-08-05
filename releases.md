@@ -2,12 +2,24 @@
 
 This document provides an outline of changes, features, bugs, and fixes. 
 Please note that Ghostbang comes in flavors and each flavor gets updated
-independantly. Also note that there are no version numbers, only release dates.
-
+independantly. Also note that there are no version numbers, only release dates. 
 
 ##Vanilla Ghost • 08.05.15
+<i>This base build is forked from the latest MINIBIAN image, dated 02.18.15. I take no credit in the development of this image.</i> https://minibianpi.wordpress.com/
 
-Linux
+NEW FEATURES
+• Kernel 3.18.7+ #755  
+• 13 secs boot (on RPi 2)  
+• 24 MB RAM used  
+• 334 MB disk space used  
+• Fit on 512MB SD Card  
+• Optimized ext4 file system with swap disabled  
+• Support for RPi B, RPi B+ and the new RPi 2  
+• Targeted for embedded or server applications (NAS, Web server, electronic applications)  
+• 100% fully compatible with official release  
+• DHCP client enabled  
+• SSHD enabled  
+• root user enabled (default password: raspberry – please change it a.s.a.p.)  
 
 This document contains the release notes for the 3.3.2 version of
 Apache Commons Lang. Commons Lang is a set of utility functions and reusable 
@@ -16,7 +28,7 @@ at least requires Java 6.0.
 
 For the advice on upgrading from 2.x to 3.x, see the following page: 
 
-    http://commons.apache.org/lang/article3_0.html
+    https://minibianpi.wordpress.com/
 
 
 NEW FEATURES
