@@ -1,5 +1,3 @@
-[![downloads](https://avatars2.githubusercontent.com/u/13507880?v=3&s=25)](http://creativecommons.org/
-    licenses/by-nc-nd/3.0/)<b>Ghostbang Linux Release Notes</b>
 ####Ghostbang Linux Release Notes
 
 This document provides a timeline of releases, changes, features, bugs, and fixes. 
