@@ -1,5 +1,3 @@
-[![downloads](https://avatars2.githubusercontent.com/u/13507880?v=3&s=100)](http://creativecommons.org/
-    licenses/by-nc-nd/3.0/)  
 ###Installation Notes
 
 [Manually reformat an SD card and install Ghostbang Linux (Linux)](https://github.com/rixwoodling/raspberry-pi/blob/master/test.md#head)  
