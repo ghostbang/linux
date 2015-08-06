@@ -1,5 +1,5 @@
-[![downloads](https://avatars2.githubusercontent.com/u/13507880?v=3&s=200)](http://creativecommons.org/
-    licenses/by-nc-nd/3.0/)
+[![downloads](https://avatars2.githubusercontent.com/u/13507880?v=3&s=50)](http://creativecommons.org/
+    licenses/by-nc-nd/3.0/)  
 What is Ghostbang?
 
 Ghostbang is a Linux operating system for the [Raspberry Pi](https://www.raspberrypi.org/) computer.
