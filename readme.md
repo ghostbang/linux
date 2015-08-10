@@ -4,7 +4,9 @@ What is Ghostbang?
 
 Ghostbang is a Debian-based Linux operating system for the [Raspberry Pi](https://www.raspberrypi.org/) computer.
 
-After [Crunchbang](http://crunchbang.org/) and [Pibang](http://pibanglinux.com/) ceased development, I decided to roll my own distro. Henceforth, Ghostbang arose from the ashes. Ghostbang is being developed for the Raspberry Pi with hobbyist intentions. Releases will be sporadic and rules of convention will be broken. However, it is my wish that this operating system stays usable and current in effort to allow others to freely use, contribute, fork and to study.
+After [Crunchbang](http://crunchbang.org/) and [Pibang](http://pibanglinux.com/) ceased development, I decided to roll my own distro. Hence, Ghostbang arose from the ashes...the ashes being a Minibian fork as a minimal starting point. My goal here with Ghostbang is to start from a minimal build to a distro with a similar look and lightweight experience Crunchbang/Pibang had. I will add my own personal touches and add or remove solel. The However, it is my intention this operating system stays stable and well documented.
+
+Ghostbang is being developed for the Raspberry Pi with a hobbyist timeframe. Releases will be sporadic and rules of convention will be broken.
 
 <sub>Check out the [Release Notes](https://github.com/ghostbang/linux/blob/master/releases.md) for more information.</sub>
 <sub><i>Installation instructions are found [here](http://www.sudo.ws/). </i></sub>
