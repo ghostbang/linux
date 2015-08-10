@@ -10,11 +10,9 @@ After [Crunchbang](http://crunchbang.org/) and [Pibang](http://pibanglinux.com/)
 <sub><i>Installation instructions are found [here](http://www.sudo.ws/). </i></sub>
 
 ---
-<sup>Latest Downloads</sup>  
-[![downloads](https://img.shields.io/badge/vanilla-2015.08.07-0EBFE9.svg)](http://creativecommons.org/
-    licenses/by-nc-nd/3.0/) <sup>```download this one if you want the minimum```</sup>  
-[![downloads](https://img.shields.io/badge/dragon%20fruit-in%20development-ff69b4.svg)](http://creativecommons.org/
-    licenses/by-nc-nd/3.0/) <sup>```experimental; unavailable at the moment```</sup>    
+<sup>Download the latest:</sup>  
+[![downloads](https://img.shields.io/badge/ghostbang-2015.08.20-ff69b4.svg)](http://creativecommons.org/
+    licenses/by-nc-nd/3.0/) <sup>```Raspberry Pi B, B+, v2 •  ```</sup>  
 
 <sub><i>Installation instructions are found [here](http://www.sudo.ws/). </i></sub>
 
