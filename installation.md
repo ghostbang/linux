@@ -28,8 +28,8 @@ In part X, the SD partitions are removed and the SD is erased merely for the sak
 
 1. Insert SD card. With Terminal open, type ```sudo fdisk -l``` or ```sudo parted```.
 
-<sub>abridged output below</sub> 
-```sudo fdisk -l```
+```sudo fdisk -l```  
+<sub>abridged output below</sub>  
 ```bash
 
 Disk /dev/sda: 80.0 GB, 80026361856 bytes
