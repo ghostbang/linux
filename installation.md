@@ -29,7 +29,7 @@ In part X, the SD partitions are removed and the SD is erased merely for the sak
 1. Insert SD card. With Terminal open, type ```sudo fdisk -l``` or ```sudo parted```.
 
 ```sudo fdisk -l```  
-<sub>abridged output below</sub>  
+<center><sub>abridged output below</sub></center>  
 ```bash
 
 Disk /dev/sda: 80.0 GB, 80026361856 bytes
@@ -37,7 +37,6 @@ Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
         
 ```
 Make note of the SD location, which is likely: ```/dev/mmcblk0```
-
 
 2. Create a new partition. Type ```sudo fdisk /dev/mmcblk0``` 
 3. When prompted with "Command (m for help): " type ```m```
