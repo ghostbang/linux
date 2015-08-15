@@ -41,11 +41,13 @@ Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
 3 - When prompted with "Command (m for help): " type ```m```  
 4 - Double check there is no current partition. Type ```p```  
 5 - Create a new partition. Type ```n```  
-6 - When prompted with... Type ```p``` to create a Primary partition type.  
+6 - When prompted with... Type ```p``` to create a Primary partition type. 
+```bash
 	Partition type:
    	   p   primary (0 primary, 0 extended, 4 free)  
            e   extended  
 	Select (default p):   
+```
 7 - Partition: ```1```  
 8 - First sector: ```2048```  
 9 - Last sector: ```+65536K``` (for some reason +100M doesn't work)
