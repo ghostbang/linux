@@ -30,6 +30,9 @@ In part X, the SD partitions are removed and the SD is erased merely for the sak
 
 ```sudo fdisk -l```
 ```bash
+
+<span style="color: #ff0000">January 30, 2011</span>
+
 Disk /dev/sda: 80.0 GB, 80026361856 bytes
 255 heads, 63 sectors/track, 9729 cylinders, total 156301488 sectors
 Units = sectors of 1 * 512 = 512 bytes
