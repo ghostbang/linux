@@ -57,7 +57,7 @@ Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
 	- Type ```t``` and then ```l```.
  	- Select ```c``` for W95 FAT32 (LBA)
 
-10 - If desired, type ```p``` to see the partition ready to be written.
+10 - If desired, type ```p``` to see the partition ready to be written.  
 11 - Finally, and most importantly, type ```w``` to "write table to disk and exit"
 
 ========================
