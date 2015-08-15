@@ -26,7 +26,7 @@ In part X, the SD partitions are removed and the SD is erased merely for the sak
 ===
 #####A. Pre-Partition/Formatting Steps
 
-1  Insert SD card. With Terminal open, type ```sudo fdisk -l``` or ```sudo parted```.
+01 - Insert SD card. With Terminal open, type ```sudo fdisk -l``` or ```sudo parted```.  
 
 	```sudo fdisk -l```  
 	```bash
@@ -34,13 +34,13 @@ In part X, the SD partitions are removed and the SD is erased merely for the sak
 	Disk /dev/sda: 80.0 GB, 80026361856 bytes
 	Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
         
-	```
-	<i>Make note of the SD location, which is likely:</i> ```/dev/mmcblk0```
-
-2  Create a new partition. Type ```sudo fdisk /dev/mmcblk0``` 
-3  When prompted with "Command (m for help): " type ```m```
-4  Double check there is no current partition. Type ```p```
-5  Create a new partition. Type ```n```
+	```  
+	<i>Make note of the SD location, which is likely:</i> ```/dev/mmcblk0```  
+  
+2 - Create a new partition. Type ```sudo fdisk /dev/mmcblk0```  
+3 - When prompted with "Command (m for help): " type ```m```  
+4  Double check there is no current partition. Type ```p```  
+5  Create a new partition. Type ```n```  
 6  When prompted with... Type ```p``` to create a Primary partition type.
 	Partition type:
    	   p   primary (0 primary, 0 extended, 4 free)
