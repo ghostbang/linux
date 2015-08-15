@@ -50,8 +50,8 @@ Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
 ```
 7 - Partition: ```1```  
 8 - First sector: ```2048```  
-9 - Last sector: ```+65536K``` (for some reason +100M doesn't work)
-   # For the root system, keep this number between +30M to +100M)
+9 - Last sector: ```+65536K``` (for some reason +100M doesn't work)  
+> For the root system, keep this number between +30M to +100M)
 
 9.5 - There's an inbetween step that appears unneccessary due the partition being formatted later on, but interesting nontheless. Also not sure if LBA flags have any effect with Linux.
 	- Type ```t``` and then ```l```.
