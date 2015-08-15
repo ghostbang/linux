@@ -44,7 +44,7 @@ Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
 6 - When prompted with... Type ```p``` to create a Primary partition type. 
 ```bash
 	Partition type:
-   	   p   primary (0 primary, 0 extended, 4 free)  
+           p   primary (0 primary, 0 extended, 4 free)  
            e   extended  
 	Select (default p):   
 ```
