@@ -28,34 +28,16 @@ In part X, the SD partitions are removed and the SD is erased merely for the sak
 
 1. Insert SD card. With Terminal open, type ```sudo fdisk -l``` or ```sudo parted```.
 
+<sub>abridged output below</sub> 
 ```sudo fdisk -l```
 ```bash
 
-<span style="color: #ff0000">January 30, 2011</span>
-
 Disk /dev/sda: 80.0 GB, 80026361856 bytes
-255 heads, 63 sectors/track, 9729 cylinders, total 156301488 sectors
-Units = sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 512 bytes
-I/O size (minimum/optimal): 512 bytes / 512 bytes
-Disk identifier: 0x0000acbc
-
-   Device Boot      Start         End      Blocks   Id  System
-/dev/sda1   *        2048   152147967    76072960   83  Linux
-/dev/sda2       152150014   156301311     2075649    5  Extended
-/dev/sda5       152150016   156301311     2075648   82  Linux swap / Solaris
-
 Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
-4 heads, 16 sectors/track, 486192 cylinders, total 31116288 sectors
-Units = sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 512 bytes
-I/O size (minimum/optimal): 512 bytes / 512 bytes
-Disk identifier: 0x0005593a
-
-        Device Boot      Start         End      Blocks   Id  System
         
 ```
-Make note of the SD location: /dev/mmcblk0
+Make note of the SD location, which is likely: ```/dev/mmcblk0```
+
 
 2. Create a new partition. Type ```sudo fdisk /dev/mmcblk0``` 
 3. When prompted with "Command (m for help): " type ```m```
