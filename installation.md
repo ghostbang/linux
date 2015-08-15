@@ -26,38 +26,37 @@ In part X, the SD partitions are removed and the SD is erased merely for the sak
 ===
 #####A. Pre-Partition/Formatting Steps
 
-1. Insert SD card. With Terminal open, type ```sudo fdisk -l``` or ```sudo parted```.
+1  Insert SD card. With Terminal open, type ```sudo fdisk -l``` or ```sudo parted```.
 
-```sudo fdisk -l```  
-<center><sub>abridged output below</sub></center>  
-```bash
+	```sudo fdisk -l```  
+	```bash
 
-Disk /dev/sda: 80.0 GB, 80026361856 bytes
-Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
+	Disk /dev/sda: 80.0 GB, 80026361856 bytes
+	Disk /dev/mmcblk0: 15.9 GB, 15931539456 bytes
         
-```
-Make note of the SD location, which is likely: ```/dev/mmcblk0```
+	```
+	<i>Make note of the SD location, which is likely:</i> ```/dev/mmcblk0```
 
-2. Create a new partition. Type ```sudo fdisk /dev/mmcblk0``` 
-3. When prompted with "Command (m for help): " type ```m```
-4. Double check there is no current partition. Type ```p```
-5. Create a new partition. Type ```n```
-6. When prompted with... Type ```p``` to create a Primary partition type.
+2  Create a new partition. Type ```sudo fdisk /dev/mmcblk0``` 
+3  When prompted with "Command (m for help): " type ```m```
+4  Double check there is no current partition. Type ```p```
+5  Create a new partition. Type ```n```
+6  When prompted with... Type ```p``` to create a Primary partition type.
 	Partition type:
    	   p   primary (0 primary, 0 extended, 4 free)
            e   extended
 	Select (default p): 
-7. Partition: ```1```
-8. First sector: ```2048```
-9. Last sector: ```+65536K``` (for some reason +100M doesn't work)
+7  Partition: ```1```
+8  First sector: ```2048```
+9  Last sector: ```+65536K``` (for some reason +100M doesn't work)
    # For the root system, keep this number between +30M to +100M)
 
 9.5 There's an inbetween step that appears unneccessary due the partition being formatted later on, but interesting nontheless. Also not sure if LBA flags have any effect with Linux.
 	- Type ```t``` and then ```l```.
  	- Select ```c``` for W95 FAT32 (LBA)
 
-10. If desired, type ```p``` to see the partition ready to be written.
-11. Finally, and most importantly, type ```w``` to "write table to disk and exit"
+10  If desired, type ```p``` to see the partition ready to be written.
+11  Finally, and most importantly, type ```w``` to "write table to disk and exit"
 
 ========================
 #####B. Formatting the Partition for FAT32
